@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/str1k3r/snap/vlc/1049/master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/home/str1k3r/.gradle/caches/transforms-2/files-2.1/f0d412d98a6cd88fb5b9e3bed7f37a25/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

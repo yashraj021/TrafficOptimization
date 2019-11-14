@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/str1k3r/snap/vlc/1049/master/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/str1k3r/.gradle/caches/transforms-2/files-2.1/f0d412d98a6cd88fb5b9e3bed7f37a25/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
